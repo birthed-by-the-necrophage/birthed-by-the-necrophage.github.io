@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Birthed by the Necrophage</title>
+    <link>https://birthed-by-the-necrophage.github.io/</link>
+    <description>Recent content on Birthed by the Necrophage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 21 Apr 2017 19:40:11 -0400</lastBuildDate>
+    
+	<atom:link href="https://birthed-by-the-necrophage.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Campaign Map</title>
+      <link>https://birthed-by-the-necrophage.github.io/map/</link>
+      <pubDate>Fri, 21 Apr 2017 19:40:11 -0400</pubDate>
+      
+      <guid>https://birthed-by-the-necrophage.github.io/map/</guid>
+      <description>Big Google maps version
+Visited Hexes of Note 43.44 Lemetaro, villaged saved from the Emerald Enchanter.
+41.44 Citadel of the Emerald Enchanter. He’s dead now. (or is he?)
+39.43 Head-hunters!
+36.42 The ruins of the Lapis Observatory.</description>
+    </item>
+    
+    <item>
+      <title>Important Loot</title>
+      <link>https://birthed-by-the-necrophage.github.io/important-loot/</link>
+      <pubDate>Fri, 21 Apr 2017 19:40:11 -0400</pubDate>
+      
+      <guid>https://birthed-by-the-necrophage.github.io/important-loot/</guid>
+      <description> Map from the Emerald Enchanter with four areas marked
+ A very nice Wand of Cure Wounds that might be more than it seems
+ Plasma Torch
+  </description>
+    </item>
+    
+    <item>
+      <title>Player Characters</title>
+      <link>https://birthed-by-the-necrophage.github.io/player-characters/</link>
+      <pubDate>Fri, 21 Apr 2017 19:40:11 -0400</pubDate>
+      
+      <guid>https://birthed-by-the-necrophage.github.io/player-characters/</guid>
+      <description>Flynn the Fortunate Magicky half-elf from the elf city.
+Mavus the Wolf Former pit-fighter, master of polearms.
+Ovek the Tall Jungle gnome psionicist.
+Grimbok the Henchman Half-beastman barbarian.</description>
+    </item>
+    
+    <item>
+      <title>Session 10 (maybe)</title>
+      <link>https://birthed-by-the-necrophage.github.io/2017/04/session-10-maybe/</link>
+      <pubDate>Fri, 21 Apr 2017 19:40:11 -0400</pubDate>
+      
+      <guid>https://birthed-by-the-necrophage.github.io/2017/04/session-10-maybe/</guid>
+      <description>Fresh off their successful home invasion of the EMERALD ENCHANTER, intrepid Thulian adventurers Flynn the Fortunate, Marvus the Wolf, and Ovek the Tall, along with their loyal half-beast henchman Grimbok, head into the JUNGLE OF BURA for some routine archaeological looting. Unfortunately, the targeted structure &amp;ndash;ruins of the elvish LAPIS OBSERVATORY&amp;ndash; is is found to be currently occupied by the ELD, and the party is sucked into an INTERDIMENSIONAL RIFT (It was Ovek’s fault.</description>
+    </item>
+    
+  </channel>
+</rss>

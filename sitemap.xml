@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://birthed-by-the-necrophage.github.io/map/</loc>
+    <lastmod>2017-04-21T19:40:11-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://birthed-by-the-necrophage.github.io/important-loot/</loc>
+    <lastmod>2017-04-21T19:40:11-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://birthed-by-the-necrophage.github.io/player-characters/</loc>
+    <lastmod>2017-04-21T19:40:11-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://birthed-by-the-necrophage.github.io/2017/04/session-10-maybe/</loc>
+    <lastmod>2017-04-21T19:40:11-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://birthed-by-the-necrophage.github.io/</loc>
+    <lastmod>2017-04-21T19:40:11-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://birthed-by-the-necrophage.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://birthed-by-the-necrophage.github.io/post/</loc>
+    <lastmod>2017-04-21T19:40:11-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://birthed-by-the-necrophage.github.io/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

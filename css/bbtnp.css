@@ -1,0 +1,161 @@
+@media (min-width: 48em) {
+  html {
+    font-size: 18px;
+  }
+}
+
+body {
+  color: #493829;
+}
+
+h1, .h1,
+h2, .h2,
+h3, .h3,
+h4, .h4,
+h5, .h5,
+h6, .h6 {
+  font-weight: normal;
+  color: #493829;
+}
+
+h3 {
+font-size: 1.17em;
+}
+
+a {
+color: #4e6172;
+text-decoration: underline;
+}
+
+a:active, a:hover {
+color: #83929f;
+}
+
+
+/*
+ * Override Bootstrap's default container.
+ */
+
+.container {
+  max-width: 60rem;
+}
+
+
+/*
+ * Masthead for nav
+ */
+
+.blog-masthead {
+  margin-bottom: 3rem;
+  background-color: #ffffff;
+  -webkit-box-shadow: inset 0 0rem 0rem rgba(0,0,0,0);
+  box-shadow: inset 0 0rem 0rem rgba(0,0,0,0);
+}
+
+/* Nav links */
+.blog-nav {
+display: inline-block;
+}
+
+
+.nav-link {
+  position: relative;
+  padding: 0px .5rem 0px 0px;
+  font-weight: 500;
+  color: #613318;
+  text-transform: uppercase;
+  text-decoration: none;
+  display: inline-block;
+  font-size: .8rem;
+}
+.nav-link:hover,
+.nav-link:focus {
+  color: #493829;
+  background-color: transparent;
+}
+
+
+.nav-link.active {
+  color: #493829;
+}
+
+.nav-link.active:after {
+display:none;
+}
+
+
+/*
+ * Blog name and description
+ */
+ 
+ .blog-header {
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+    border-bottom: 0px;
+}
+
+.blog-header-image-wrapper {
+  position: relative;
+  height: 250px;
+  overflow: hidden;
+}
+
+.blog-header-image {
+  background-image: url(/images/bbtnp-header.jpg);
+  background-size: cover;
+  margin: 0 -1px;
+  background-position: 50% 50%;
+  display: block;
+  height: 100%;
+  text-align: center;
+}
+
+
+.blog-header-image img {
+  height: 95px;
+  margin-top: 77px;
+}
+
+@media (min-width: 768px) {
+  .blog-header-image img {
+    height: 150px;
+    margin-top: 100px;
+  }
+  .blog-header-image-wrapper {
+    height: 350px;
+  }
+  
+}
+
+.blog-header-image:after {
+content: '';
+position: absolute;
+height: 65px;
+width: 100%;
+top: 0;
+left: 0;
+background-image: -webkit-linear-gradient(top, rgba(0, 0, 0, .4) 0%, transparent 100%);
+background-image: linear-gradient(to bottom, rgba(0, 0, 0, .4) 0%, transparent 100%)
+}
+
+.blog-header .container, .blog-masthead .container {
+text-align:center;
+}
+
+.blog-title {
+  margin-bottom: 0;
+  font-size: 2rem;
+  font-weight: normal;
+}
+.blog-description {
+  margin-top: 1rem;
+  margin-bottom: .5rem;
+  font-size: 1.1rem;
+  color: #816c5b;
+}
+
+@media (min-width: 40em) {
+  .blog-title {
+    font-size: 3.5rem;
+  }
+}

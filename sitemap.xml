@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://birthed-by-the-necrophage.github.io/2018/03/s03e01-city-of-thieves/</loc>
+    <lastmod>2018-03-15T12:54:39+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://birthed-by-the-necrophage.github.io/2018/02/s02e09-epilogue/</loc>
     <lastmod>2018-02-13T17:32:01+00:00</lastmod>
   </url>
@@ -68,7 +73,7 @@
   
   <url>
     <loc>https://birthed-by-the-necrophage.github.io/</loc>
-    <lastmod>2018-02-13T17:32:01+00:00</lastmod>
+    <lastmod>2018-03-15T12:54:39+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -79,7 +84,7 @@
   
   <url>
     <loc>https://birthed-by-the-necrophage.github.io/post/</loc>
-    <lastmod>2018-02-13T17:32:01+00:00</lastmod>
+    <lastmod>2018-03-15T12:54:39+00:00</lastmod>
     <priority>0</priority>
   </url>
   

@@ -1,5 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://birthed-by-the-necrophage.github.io/</loc>
+    <lastmod>2019-09-25T14:00:00-04:03</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://birthed-by-the-necrophage.github.io/post/</loc>
+    <lastmod>2019-09-25T14:00:00-04:03</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://birthed-by-the-necrophage.github.io/2019/09/session-405/</loc>
+    <lastmod>2019-09-25T14:00:00-04:03</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://birthed-by-the-necrophage.github.io/2019/09/session-404/</loc>
+    <lastmod>2019-09-25T14:00:00-04:02</lastmod>
+  </url>
   
   <url>
     <loc>https://birthed-by-the-necrophage.github.io/2019/06/session-403-grimnars-defiance/</loc>
@@ -27,12 +48,12 @@
   </url>
   
   <url>
-    <loc>https://birthed-by-the-necrophage.github.io/2018/11/session-307--sepulcher-of-the-carnifex-part-2/</loc>
+    <loc>https://birthed-by-the-necrophage.github.io/2018/11/session-307-sepulcher-of-the-carnifex-part-2/</loc>
     <lastmod>2018-11-16T14:00:00-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://birthed-by-the-necrophage.github.io/2018/09/s03e06--sepulcher-of-the-carnifex/</loc>
+    <loc>https://birthed-by-the-necrophage.github.io/2018/09/s03e06-sepulcher-of-the-carnifex/</loc>
     <lastmod>2018-09-14T14:00:00-04:00</lastmod>
   </url>
   
@@ -127,25 +148,11 @@
   </url>
   
   <url>
-    <loc>https://birthed-by-the-necrophage.github.io/</loc>
-    <lastmod>2019-06-28T14:00:00-04:02</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://birthed-by-the-necrophage.github.io/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://birthed-by-the-necrophage.github.io/post/</loc>
-    <lastmod>2019-06-28T14:00:00-04:02</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://birthed-by-the-necrophage.github.io/tags/</loc>
-    <priority>0</priority>
   </url>
   
 </urlset>
